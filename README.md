@@ -1,4 +1,4 @@
-# Blinkit Grocery Delivery System
+# Online Grocery Delivery System 
 
 A complete full-stack DBMS project for managing an online grocery delivery system built with PHP, MySQL, HTML, CSS, Bootstrap 5, and JavaScript.
 
@@ -152,22 +152,6 @@ blinkit_dbms/
 - Foreign key constraints ensure data integrity
 - The system uses prepared statements to prevent SQL injection
 
-## Troubleshooting
-
-1. **Database Connection Error**:
-   - Check if MySQL service is running
-   - Verify database credentials in `db.php`
-   - Ensure database `blinkit_db` exists
-
-2. **Page Not Found**:
-   - Verify files are in the correct directory
-   - Check Apache service is running
-   - Ensure correct URL path
-
-3. **Foreign Key Errors**:
-   - Make sure parent records exist before creating child records
-   - Check that referenced IDs are valid
-
 ## Technologies Used
 
 - **Backend**: PHP 7.4+
@@ -176,11 +160,11 @@ blinkit_dbms/
 - **JavaScript**: Vanilla JS (for modal interactions)
 - **Icons**: Bootstrap Icons
 
-## License
 
 This project is created for educational purposes.
 
 ---
 
 **Developed for DBMS Project - Blinkit Grocery Delivery System**
+
 
