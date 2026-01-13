@@ -163,8 +163,5 @@ blinkit_dbms/
 
 This project is created for educational purposes.
 
----
-
-**Developed for DBMS Project - Blinkit Grocery Delivery System**
 
 
